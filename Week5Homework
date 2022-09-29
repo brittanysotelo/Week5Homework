@@ -1,0 +1,36 @@
+﻿namespace Week5Homework;
+class Program
+{
+    static void Main(string[] args)
+    {
+
+//Question1
+
+        // int a = 3; 
+        // int b = 5;
+        // if (a < b);
+        // {
+        // Console.WriteLine("The largest number is: 5");
+        // }
+
+//Question2
+        int a = 3;
+        int b = 5;
+        int c = 7;
+        int d = 9;
+        if (a < b);
+        else
+        if (b < c);
+        else
+        {
+        if (c < d);
+        }
+        Console.WriteLine("The largest number is: 9");
+//Question3
+// Did not understand
+        }
+        }
+    
+
+
+
